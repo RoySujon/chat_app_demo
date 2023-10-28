@@ -15,6 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+![Screen Recording 2023-10-28 at 11 24 14 AM](https://github.com/RoySujon/chat_app_demo/assets/48433293/9396da02-4995-4a75-9757-079d8ff07772)
+
 
 ```
 lib
